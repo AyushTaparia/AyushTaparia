@@ -4,8 +4,8 @@
 
 python
 Name =  "Ayush Taparia"
-Interests = ["Competitive Coding", "Maths", "Developing whatever i wish", "Anime"]
-Languages = ["C++", "C", "Python", "HTML" , "CSS" , "JavaScript"]
+Interests = ["Competitive Coding", "Web development", "Anime"]
+Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript"]
 
 
 - 🌱 I’m currently learning NodeJS.
