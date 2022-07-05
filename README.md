@@ -18,7 +18,7 @@ Languages = ["C++", "C", "Python", "HTML" , "CSS" , "JavaScript"]
 ### Connect with me:
 <div align=left>
 
-<a href="https://www.linkedin.com/in/vishal-choubey-786a92182" alt="Vishal Choubey | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://www.linkedin.com/in/ayush-taparia-9156b2200/" alt="Ayush Taparia | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://twitter.com/BlueFaceTantal1?s=08 " alt="@BluefaceTantal1 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
 <a href="https://www.instagram.com/vishal.choubey.106/ " alt="vishal.choubey.106 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 </div>
