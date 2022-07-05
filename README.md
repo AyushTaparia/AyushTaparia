@@ -25,8 +25,8 @@ Languages = ["C++", "C", "Python", "HTML" , "CSS" , "JavaScript"]
 
    
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id={VishalChoubey1019}.{github.com/VishalChoubey1019})
+![visitors](https://visitor-badge.glitch.me/badge?page_id={AyushTaparia}.{github.com/AyushTaparia})
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishalChoubey1019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushTaparia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 *VishalChoubey1019/VishalChoubey1019* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
