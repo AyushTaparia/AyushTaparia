@@ -1,5 +1,4 @@
-### Konnichiwa!
-<img src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif" width="auto">
+### Konnichiwa!<img src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif" width="5px">
 
 
 python
@@ -30,4 +29,4 @@ Languages = ["C++", "C", "Python", "HTML" , "CSS" , "JavaScript"]
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushTaparia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
-*VishalChoubey1019/VishalChoubey1019* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*AyushTaparia/AyushTaparia* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
