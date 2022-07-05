@@ -5,15 +5,8 @@
 python
 Name =  "Ayush Taparia"
 Interests = ["Competitive Coding", "Web development", "Anime"]
+
 Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript"]
-
-
-- 🌱 I’m currently learning NodeJS.
-
-<div align=center>
-  
-[![coding waifu x 1000](./giffile.gif)](https://github.com/VishalChoubey1019)
-</div>
 
 
 ### Connect with me:
