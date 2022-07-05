@@ -1,4 +1,5 @@
-### Konnichiwa!<img src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif" width="5px">
+### Konnichiwa!
+<img src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif" width="auto">
 
 
 python
