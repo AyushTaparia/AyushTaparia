@@ -2,14 +2,12 @@
 <img src="https://c.tenor.com/Ch4VFEjuI7IAAAAC/anime-boy.gif" width="auto">
 
 
-python
+
 Name =  "Ayush Taparia"
+
 Interests = ["Competitive Coding", "Web development", "Anime"]
 
 Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript"]
-
-
-
 
 
 ### Connect with me:
