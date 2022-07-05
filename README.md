@@ -5,7 +5,6 @@
 python
 Name =  "Ayush Taparia"
 Interests = ["Competitive Coding", "Web development", "Anime"]
-
 Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript"]
 
 
