@@ -7,7 +7,7 @@ Name =  "Ayush Taparia"
 
 Interests = ["Competitive Coding", "Web development", "Anime"]
 
-Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript"]
+Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript" , "ReactJS"]
 
 
 ### Connect with me:
@@ -15,7 +15,6 @@ Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript"]
 
 <a href="https://www.linkedin.com/in/ayush-taparia-9156b2200/" alt="Ayush Taparia | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://twitter.com/home" alt="@BluefaceTantal1 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
-<!-- <a href="https://www.instagram.com/vishal.choubey.106/ " alt="vishal.choubey.106 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp; -->
 </div>
 
    
