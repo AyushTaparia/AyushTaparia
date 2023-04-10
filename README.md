@@ -13,7 +13,7 @@ Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript" , "Reac
 ### Connect with me:
 <div align=left>
 
-<a href="https://www.linkedin.com/in/ayush-taparia-9156b2200/" alt="Ayush Taparia | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://www.linkedin.com/in/ayush-taparia-1812at/" alt="Ayush Taparia | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://twitter.com/home" alt="@BluefaceTantal1 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
 </div>
 
