@@ -6,7 +6,7 @@ Name =  "Ayush Taparia"
 
 Interests = ["Competitive Coding", "Web development", "Anime"]
 
-Languages = ["C++", "C", "Python", "Java", "HTML" , "CSS" , "JavaScript" , "ReactJS", "NextJs", "NodeJs", "MongoDB", "ExpressJs"]
+Languages = ["C++", "Python", "Java", "JavaScript" , "TypeScript", "ReactJS", "NextJs", "NodeJs", "MongoDB", "ExpressJs"]
 
 
 ### Connect with me:
