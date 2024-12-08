@@ -16,9 +16,6 @@ Languages = ["C++", "Python", "Java", "JavaScript" , "TypeScript", "ReactJS", "N
 <a href="https://twitter.com/home" alt="@BluefaceTantal1 twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
 </div>
 
-   
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id={AyushTaparia}.{github.com/AyushTaparia})
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushTaparia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
